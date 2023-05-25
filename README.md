@@ -16,7 +16,7 @@ Bien que ce programme ne soit pas fonctionnel, il illustre le potentiel de la pr
 ```python
 - Clonez ce dépôt
 - Exécutez npm install pour installer les dépendances
-- Exécutez node server.js pour démarrer le serveur (non fonctionnel)
+- Exécutez node server.js pour démarrer le serveur
 ```
 ## Conclusion
 Ce programme est destiné à être un outil d'apprentissage pour les développeurs qui souhaitent en savoir plus sur Node.js et le travail avec les APIs. Il n'est pas destiné à être utilisé pour violer la vie privée des utilisateurs d'Instagram ou pour enfreindre les conditions d'utilisation d'Instagram. Veuillez utiliser ce programme de manière responsable.

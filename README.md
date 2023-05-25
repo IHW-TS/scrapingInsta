@@ -1,10 +1,12 @@
 # Instagram Data Scraper (Non-fonctionnel par choix)
 
 ## Avertissement
-Ce programme (une version extrêmement simplifiée) a été créé dans un but éducatif pour démontrer les possibilités de programmation avec Node.js et les APIs publiques. Le scraping de données sur Instagram est contraire aux conditions d'utilisation d'Instagram et peut être illégal dans certaines juridictions. Par conséquent, ce programme n'est pas destiné à être utilisé pour collecter des données sans le consentement approprié.
+Ce programme **(une version extrêmement simplifiée)** a été créé dans un but éducatif pour démontrer les possibilités de programmation avec Node.js et les APIs publiques. Le scraping de données sur Instagram est contraire aux conditions d'utilisation d'Instagram et peut être illégal dans certaines juridictions. Par conséquent, ce programme n'est pas destiné à être utilisé pour collecter des données sans le consentement approprié.
 
 ## Description
-Ce programme a été conçu pour montrer comment on pourrait potentiellement extraire des informations sur un utilisateur Instagram en utilisant Node.js et la bibliothèque instagram-private-api. Cependant, pour respecter les politiques d'Instagram, le programme n'est pas fonctionnel et ne doit pas être utilisé pour faire du scraping.
+Ce projet est une démonstration non fonctionnelle de la manière dont on pourrait potentiellement extraire des données d'Instagram. Il a été conçu dans le cadre d'**un mémoire sur l'anonymat dans les réseaux sociaux**. L'objectif de ce projet est purement éducatif, visant à illustrer les implications potentielles en matière de confidentialité et les risques auxquels les utilisateurs peuvent être confrontés lorsqu'ils interagissent avec les plateformes de médias sociaux.
+
+Veuillez noter : Ce code est intentionnellement non fonctionnel, car l'extraction de données (ou "scraping") enfreint les conditions d'utilisation d'Instagram. Nous ne soutenons pas l'extraction de données sans le consentement explicite des utilisateurs concernés.
 
 ## Comment ça fonctionne
 Le programme utilise l'API non officielle d'Instagram (instagram-private-api) pour simuler une connexion à un compte Instagram et récupérer des informations sur un autre compte utilisateur. Cela nécessite normalement des identifiants de connexion valides, mais nous avons volontairement rendu le programme non fonctionnel pour éviter une utilisation abusive.
